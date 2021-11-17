@@ -1,0 +1,11 @@
+module FullAdder (
+	input 			A, B,
+	input 			cin,
+	output logic 	S,
+	output logic 	cout
+);
+
+	assign S = A ^ B ^ cin;
+	assign cout = (A & B) | (B & cin) | (cin & A);
+
+endmodule 

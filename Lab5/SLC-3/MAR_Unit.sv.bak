@@ -1,0 +1,11 @@
+module MAR (	input Clk, Ld_MAR, Reset,
+					input [15:0] MAR_In,
+					output [19:0] MAR_Out)
+					
+	logic [4:0] ZEXT;
+	assign ZEXT = 4'b0;
+	
+	logic [15:0] MAR_reg_Out;
+	
+	Reg_16 MAR_reg	(.Clk(Clk), .Reset(Reset), Load(Ld_MAR), .Shift_En(),
+						 .Shift_In(), .Data_in(PC_Data), .Data_out(PC_Out));

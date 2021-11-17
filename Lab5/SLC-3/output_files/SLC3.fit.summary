@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Oct 18 23:35:52 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : SLC3
+Top-level Entity Name : slc3_testtop
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 1,891 / 49,760 ( 4 % )
+    Total combinational functions : 1,186 / 49,760 ( 2 % )
+    Dedicated logic registers : 1,398 / 49,760 ( 3 % )
+Total registers : 1398
+Total pins : 51 / 360 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 8,448 / 1,677,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

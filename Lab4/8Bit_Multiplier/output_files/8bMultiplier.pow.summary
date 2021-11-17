@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sun Oct 03 17:44:31 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : 8bMultiplier
+Top-level Entity Name : Multiplier_8b
+Family : MAX 10
+Device : 10M50DAF484C7G
+Power Models : Final
+Total Thermal Power Dissipation : 108.87 mW
+Core Dynamic Thermal Power Dissipation : 5.90 mW
+Core Static Thermal Power Dissipation : 89.99 mW
+I/O Thermal Power Dissipation : 12.98 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

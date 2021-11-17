@@ -1,0 +1,5 @@
+module datapath 	( 	input GateMDR, GateALU, GatePC, GateMARMUX,
+							input [15:0] MDR_In, ALU_In, PC_In, MAR_In,
+							output [15:0] Bus_Out)
+							
+	

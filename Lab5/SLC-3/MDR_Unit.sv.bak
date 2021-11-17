@@ -1,0 +1,10 @@
+module MDR (	input Clk, Ld_MDR, Reset,
+					input MIO_En,
+					input [15:0] Bus_In, MEM_In,
+					output logic [15:0] MDR_Out)
+					
+	logic [15:0] MDR_In;
+	
+	Reg_16 MDR_reg (.Clk(Clk), .Reset(Reset), Load(Ld_MDR), .Shift_En(),
+						 .Shift_In(), .Data_in(MDR_In), .Data_out(MDR_Out));
+	

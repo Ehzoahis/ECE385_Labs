@@ -1,0 +1,4 @@
+module control (	input clk, reset, run;
+						output logic shift, add, sub	);
+						
+always_ff @ (posedge clk)

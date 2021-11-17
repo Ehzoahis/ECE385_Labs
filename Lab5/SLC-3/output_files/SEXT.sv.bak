@@ -1,0 +1,4 @@
+module SEXT (	input [15:0] Data_in;
+					input [19:0] Data_Out);
+					
+	assign Data_Out = {Data_in[15], Data_in[15], Data_in[15], Data_in[15], Data_in}

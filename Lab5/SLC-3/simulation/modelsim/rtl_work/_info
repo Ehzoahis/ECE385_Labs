@@ -1,0 +1,650 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ENIAC/Desktop/ECE385/Lab5/simulation/modelsim
+vALU_Unit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1634618193
+!i10b 1
+!s100 5[0RRlK<Xcjnn7N8NoRhi0
+Iz?4ShhVb7zG4Fnj=LT[4B0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_Unit_sv_unit
+S1
+R0
+w1633666401
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1634618193.000000
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5
+Z8 tCvgOpt 0
+n@a@l@u_@unit
+vBEN_Unit
+R1
+Z9 !s110 1634618194
+!i10b 1
+!s100 L5dN@5>4FeEM1g7hZgYX03
+IeQV7l>YOISLmh_^]LD4WV3
+R3
+!s105 BEN_Unit_sv_unit
+S1
+R0
+w1633578360
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z10 !s108 1634618194.000000
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv|
+!i113 1
+R6
+R7
+R8
+n@b@e@n_@unit
+vdatapath
+R1
+R9
+!i10b 1
+!s100 _YL7]5=maCGY8n87zbj[01
+IHe?L;`]W37zJ0h3T>[9?81
+R3
+!s105 datapath_sv_unit
+S1
+R0
+w1633668394
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv|
+!i113 1
+R6
+R7
+R8
+vDecoder
+R1
+R2
+!i10b 1
+!s100 ]e`;6dg7VP?cfGRRg9c`W3
+I9a=AY@]XE<n7DMSNQWVMC3
+R3
+!s105 Decoder_sv_unit
+S1
+R0
+w1633671188
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv|
+!i113 1
+R6
+R7
+R8
+n@decoder
+vFlipflop
+R1
+R2
+!i10b 1
+!s100 3PBNPJLLj=gfinE32n0l20
+I^o=f;481RKE@V`ccY`7g11
+R3
+Z11 !s105 RegUnit_sv_unit
+S1
+R0
+Z12 w1633571150
+Z13 8C:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv
+Z14 FC:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv
+L0 14
+R4
+r1
+!s85 0
+31
+R5
+Z15 !s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv|
+Z16 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv|
+!i113 1
+R6
+R7
+R8
+n@flipflop
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IjdZBYn[=`]fIK=FP248I70
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1612570584
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv|
+!i113 1
+R6
+R7
+R8
+n@hex@driver
+vIR_Unit
+R1
+R9
+!i10b 1
+!s100 1VD1OK10]NOdJ1`SkHQn@0
+IK9:lNFPeDIlQ@7fiQTAL31
+R3
+!s105 IR_Unit_sv_unit
+S1
+R0
+w1633068941
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv|
+!i113 1
+R6
+R7
+R8
+n@i@r_@unit
+vISDU
+R1
+R2
+!i10b 1
+!s100 7nXf4M]5@_U8;e`XShklR2
+IUCfK`YKageK49@oc>96=P3
+R3
+!s105 ISDU_sv_unit
+S1
+R0
+w1633675335
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv|
+!i113 1
+R6
+R7
+R8
+n@i@s@d@u
+vLED_Unit
+R1
+R2
+!i10b 1
+!s100 fkD7U8zJUE>GK8hAEIoA<2
+IeoohG[f28]4dFQFSDn?KC3
+R3
+!s105 LED_unit_sv_unit
+S1
+R0
+w1633676415
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv|
+!i113 1
+R6
+R7
+R8
+n@l@e@d_@unit
+vMAR_Unit
+R1
+R2
+!i10b 1
+!s100 ^hhaEhZEQcGaJ?OTA0;X[3
+I`kOQz2Fd_0j6fjOiL@5<70
+R3
+!s105 MAR_Unit_sv_unit
+S1
+R0
+w1633068936
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv|
+!i113 1
+R6
+R7
+R8
+n@m@a@r_@unit
+vMDR_Unit
+R1
+R2
+!i10b 1
+!s100 bHC83eIXMXT7Keem7UB@]2
+IMbLX[^V[ZnleeGLUF<ZYW0
+R3
+!s105 MDR_Unit_sv_unit
+S1
+R0
+w1633068976
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv|
+!i113 1
+R6
+R7
+R8
+n@m@d@r_@unit
+vMem2IO
+R1
+R2
+!i10b 1
+!s100 ]Q:NN9GIUgNPLn_MG6U5k1
+I@kM@X=ZleHm0APEj8bHJe1
+R3
+!s105 Mem2IO_sv_unit
+S1
+R0
+w1591652656
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv
+Z17 L0 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv|
+!i113 1
+R6
+R7
+R8
+n@mem2@i@o
+Xmemory_contents_sv_unit
+R1
+Z18 DXx4 work 6 SLC3_2 0 22 TZTfkXW2o_oSSa2;@N@Lj1
+VNgc[k2:@l7Yh3h2o4DI581
+r1
+!s85 0
+31
+!i10b 1
+!s100 3HBe^oHDgeVH<TZocfCK[0
+INgc[k2:@l7Yh3h2o4DI581
+!i103 1
+S1
+R0
+Z19 w1591637472
+Z20 8C:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv
+Z21 FC:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv
+R17
+R4
+R5
+Z22 !s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv|
+Z23 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv|
+!i113 1
+R6
+R7
+R8
+vmemory_parser
+R1
+R18
+DXx4 work 23 memory_contents_sv_unit 0 22 Ngc[k2:@l7Yh3h2o4DI581
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 o:B0TTcXZa[?Oo3HFa9T;0
+IbLaCVZo]IgTQdX[^W[zU;2
+!s105 memory_contents_sv_unit
+S1
+R0
+R19
+R20
+R21
+L0 18
+R4
+R5
+R22
+R23
+!i113 1
+R6
+R7
+R8
+vPC_Unit
+R1
+R2
+!i10b 1
+!s100 P>IkTeAig8EI1QgS8iaMT3
+IXPA2]nT`TG1hRdZ;MYZkC2
+R3
+!s105 PC_Unit_sv_unit
+S1
+R0
+w1633073079
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv|
+!i113 1
+R6
+R7
+R8
+n@p@c_@unit
+vReg_16
+R1
+R2
+!i10b 1
+!s100 z6PDM72V`U2YM?M`k3M:f2
+Im2I0YN67Tkf[99TeBPhV^2
+R3
+R11
+S1
+R0
+R12
+R13
+R14
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R15
+R16
+!i113 1
+R6
+R7
+R8
+n@reg_16
+vRegFile
+R1
+R9
+!i10b 1
+!s100 U>IkS?7`nXh<7h4PI_Cg^3
+IW0TNNmJU8=NP5Oh2<N]o53
+R3
+!s105 RegFile_sv_unit
+S1
+R0
+w1633660023
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv|
+!i113 1
+R6
+R7
+R8
+n@reg@file
+vslc3
+R1
+R9
+!i10b 1
+!s100 <=e;iWjOkYM]_m<;d^MHX2
+I@1==Ol<mPLKV5:lfKJ<1h0
+R3
+!s105 slc3_sv_unit
+S1
+R0
+w1633673401
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv
+L0 20
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv|
+!i113 1
+R6
+R7
+R8
+XSLC3_2
+R1
+R2
+!i10b 1
+!s100 Cz8_^@QRefP31?j=Zf>lj0
+ITZTfkXW2o_oSSa2;@N@Lj1
+VTZTfkXW2o_oSSa2;@N@Lj1
+S1
+R0
+w1506381592
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv
+L0 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv|
+!i113 1
+R6
+R7
+R8
+n@s@l@c3_2
+vslc3_testtop
+R1
+R9
+!i10b 1
+!s100 ^4hhCjYV2aT;kkekDk8a71
+IzU2@k9aPA>Wj]lF5F7;Wf0
+R3
+!s105 slc3_testtop_sv_unit
+S1
+R0
+w1591547202
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv|
+!i113 1
+R6
+R7
+R8
+vsync
+R1
+R2
+!i10b 1
+!s100 OHNUFN]797>kYzRL;ikZR2
+ID8A>Z@`>iYUZ3c>_P=bAm2
+R3
+Z24 !s105 synchronizers_sv_unit
+S1
+R0
+Z25 w1591500476
+Z26 8C:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv
+Z27 FC:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+Z28 !s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv|
+Z29 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv|
+!i113 1
+R6
+R7
+R8
+vsync_r0
+R1
+R2
+!i10b 1
+!s100 _Sn:CfHFjznVZen=7jc>C2
+IPaYHm6K7]4?CCEckoh0cC0
+R3
+R24
+S1
+R0
+R25
+R26
+R27
+L0 21
+R4
+r1
+!s85 0
+31
+R5
+R28
+R29
+!i113 1
+R6
+R7
+R8
+vsync_r1
+R1
+R2
+!i10b 1
+!s100 4jfZd?z`MK2Y<NLFC0<QH2
+Iz8aaJ609dP6U:n>7C^gS_3
+R3
+R24
+S1
+R0
+R25
+R26
+R27
+L0 42
+R4
+r1
+!s85 0
+31
+R5
+R28
+R29
+!i113 1
+R6
+R7
+R8
+vtest_memory
+R1
+R2
+!i10b 1
+!s100 JAXhO?6GV:H>``me>_X5<1
+Io0WRJ8=hNcUP26J>SLbo10
+R3
+!s105 test_memory_sv_unit
+S1
+R0
+w1591648402
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv
+L0 26
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv|
+!i113 1
+R6
+R7
+R8
+vtestbench_slc3
+R1
+R9
+!i10b 1
+!s100 NPU65hX<XI@WD3RbO5On:3
+IkdWW6e95<?d;7`8hlKNJU3
+R3
+!s105 testbench_slc3_sv_unit
+S1
+R0
+w1634618113
+8C:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5|C:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv|
+!i113 1
+R6
+R7
+R8

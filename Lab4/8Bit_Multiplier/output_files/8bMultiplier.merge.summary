@@ -1,0 +1,16 @@
+Partition Merge Status : Successful - Fri Sep 24 20:31:53 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : 8bMultiplier
+Top-level Entity Name : Multiplier_8b
+Family : MAX 10
+Total logic elements : 968
+    Total combinational functions : 602
+    Dedicated logic registers : 698
+Total registers : 698
+Total pins : 56
+Total virtual pins : 0
+Total memory bits : 3,200
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

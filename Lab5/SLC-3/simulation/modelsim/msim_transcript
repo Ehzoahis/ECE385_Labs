@@ -1,0 +1,282 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do SLC3_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/test_memory.sv 
+# -- Compiling module test_memory
+# 
+# Top level modules:
+# 	test_memory
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/synchronizers.sv 
+# -- Compiling module sync
+# -- Compiling module sync_r0
+# -- Compiling module sync_r1
+# 
+# Top level modules:
+# 	sync
+# 	sync_r0
+# 	sync_r1
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/SLC3_2.sv 
+# -- Compiling package SLC3_2
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/Mem2IO.sv 
+# -- Compiling module Mem2IO
+# 
+# Top level modules:
+# 	Mem2IO
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/ISDU.sv 
+# -- Compiling module ISDU
+# 
+# Top level modules:
+# 	ISDU
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/RegUnit.sv 
+# -- Compiling module Reg_16
+# -- Compiling module Flipflop
+# 
+# Top level modules:
+# 	Reg_16
+# 	Flipflop
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv 
+# -- Compiling module HexDriver
+# 
+# Top level modules:
+# 	HexDriver
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv 
+# -- Compiling module Decoder
+# 
+# Top level modules:
+# 	Decoder
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv 
+# -- Compiling module ALU_Unit
+# 
+# Top level modules:
+# 	ALU_Unit
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/LED_unit.sv 
+# -- Compiling module LED_Unit
+# 
+# Top level modules:
+# 	LED_Unit
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/memory_contents.sv 
+# -- Compiling package memory_contents_sv_unit
+# -- Importing package SLC3_2
+# -- Compiling module memory_parser
+# 
+# Top level modules:
+# 	memory_parser
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/PC_Unit.sv 
+# -- Compiling module PC_Unit
+# 
+# Top level modules:
+# 	PC_Unit
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/MAR_Unit.sv 
+# -- Compiling module MAR_Unit
+# 
+# Top level modules:
+# 	MAR_Unit
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/MDR_Unit.sv 
+# -- Compiling module MDR_Unit
+# 
+# Top level modules:
+# 	MDR_Unit
+# End time: 23:36:33 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:33 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/IR_Unit.sv 
+# -- Compiling module IR_Unit
+# 
+# Top level modules:
+# 	IR_Unit
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv 
+# -- Compiling module RegFile
+# 
+# Top level modules:
+# 	RegFile
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/BEN_Unit.sv 
+# -- Compiling module BEN_Unit
+# 
+# Top level modules:
+# 	BEN_Unit
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv 
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3.sv 
+# -- Compiling module slc3
+# 
+# Top level modules:
+# 	slc3
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_testtop.sv 
+# -- Compiling module slc3_testtop
+# 
+# Top level modules:
+# 	slc3_testtop
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5 {C:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:34 on Oct 18,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab5" C:/Users/ENIAC/Desktop/ECE385/Lab5/testbench_slc3.sv 
+# -- Compiling module testbench_slc3
+# 
+# Top level modules:
+# 	testbench_slc3
+# End time: 23:36:34 on Oct 18,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  testbench_slc3
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" testbench_slc3 
+# Start time: 23:36:34 on Oct 18,2021
+# Loading sv_std.std
+# Loading work.testbench_slc3
+# Loading work.slc3_testtop
+# Loading work.slc3
+# Loading work.datapath
+# Loading work.PC_Unit
+# Loading work.Reg_16
+# Loading work.MDR_Unit
+# Loading work.MAR_Unit
+# Loading work.IR_Unit
+# Loading work.ALU_Unit
+# Loading work.Decoder
+# Loading work.RegFile
+# Loading work.BEN_Unit
+# Loading work.Flipflop
+# Loading work.LED_Unit
+# Loading work.Mem2IO
+# Loading work.ISDU
+# Loading work.test_memory
+# Loading work.SLC3_2
+# Loading work.memory_contents_sv_unit
+# Loading work.memory_parser
+# Loading work.HexDriver
+# Loading work.sync
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv(24): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_slc3/test/slc/d0/regfile
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv(35): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_slc3/test/slc/d0/regfile
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv(9): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_slc3/test/slc/d0/decoder
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/Decoder.sv(16): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_slc3/test/slc/d0/decoder
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/ALU_Unit.sv(14): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_slc3/test/slc/d0/alu
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv(24): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 1  Instance: /testbench_slc3/test/slc/d0/regfile
+# ** Warning: (vsim-8315) C:/Users/ENIAC/Desktop/ECE385/Lab5/RegFile.sv(35): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 1  Instance: /testbench_slc3/test/slc/d0/regfile
+# End time: 23:48:19 on Oct 18,2021, Elapsed time: 0:11:45
+# Errors: 0, Warnings: 7

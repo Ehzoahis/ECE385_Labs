@@ -1,0 +1,8 @@
+module ALU_Unit	(	input [15:0] IR_In, SR2_In, SR1_In,
+							input [1:0]	ALUK,
+							input SR2MUX,
+							output logic ALU_Out);
+			
+	logic [15:0] SR2MUX_Out;
+	
+endmodule

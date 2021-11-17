@@ -1,0 +1,12 @@
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Run" differs only in case from object "RUN" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_sramtop.sv Line: 7
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Continue" differs only in case from object "CONTINUE" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/slc3_sramtop.sv Line: 7
+Warning (10273): Verilog HDL warning at datapath.sv(26): extended using "x" or "z" File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 26
+Info (10281): Verilog HDL Declaration information at datapath.sv(16): object "PC" differs only in case from object "pc" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 16
+Info (10281): Verilog HDL Declaration information at datapath.sv(8): object "MDR" differs only in case from object "mdr" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 8
+Info (10281): Verilog HDL Declaration information at datapath.sv(8): object "MAR" differs only in case from object "mar" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 8
+Info (10281): Verilog HDL Declaration information at datapath.sv(8): object "IR" differs only in case from object "ir" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 8
+Info (10281): Verilog HDL Declaration information at datapath.sv(16): object "ALU" differs only in case from object "alu" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 16
+Info (10281): Verilog HDL Declaration information at datapath.sv(16): object "Decoder" differs only in case from object "decoder" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 16
+Info (10281): Verilog HDL Declaration information at datapath.sv(9): object "BEN" differs only in case from object "ben" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 9
+Info (10281): Verilog HDL Declaration information at datapath.sv(10): object "LED" differs only in case from object "led" in the same scope File: C:/Users/ENIAC/Desktop/ECE385/Lab5/datapath.sv Line: 10
+Warning (10273): Verilog HDL warning at HexDriver.sv(23): extended using "x" or "z" File: C:/Users/ENIAC/Desktop/ECE385/Lab5/HexDriver.sv Line: 23

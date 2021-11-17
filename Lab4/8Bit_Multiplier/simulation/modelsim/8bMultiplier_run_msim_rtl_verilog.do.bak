@@ -1,0 +1,13 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab4 {C:/Users/ENIAC/Desktop/ECE385/Lab4/Reg_8.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab4 {C:/Users/ENIAC/Desktop/ECE385/Lab4/Adder_9.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab4 {C:/Users/ENIAC/Desktop/ECE385/Lab4/control.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab4 {C:/Users/ENIAC/Desktop/ECE385/Lab4/HexDriver.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab4 {C:/Users/ENIAC/Desktop/ECE385/Lab4/Multiplier_8b.sv}
+

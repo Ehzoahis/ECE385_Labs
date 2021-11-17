@@ -1,0 +1,287 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/simulation/modelsim
+vcompute
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1632170823
+!i10b 1
+!s100 i=]6932U1_OWO<5E?3HbR1
+IO3UKV6@0YmH<<2e]J7ehz3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 compute_sv_unit
+S1
+R0
+w1631032812
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/compute.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/compute.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1632170823.000000
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/compute.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/compute.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit
+Z8 tCvgOpt 0
+vcontrol
+R1
+R2
+!i10b 1
+!s100 I6:P0=Ql6]lVIa>WCSed<2
+IIFT>6i=OSD>YH@MPlj1>Q3
+R3
+!s105 Control_sv_unit
+S1
+R0
+w1631161948
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Control.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Control.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Control.sv|
+!i113 1
+R6
+R7
+R8
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IeKDF5h?EnkVMDAYES]<nL2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1612570584
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/HexDriver.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/HexDriver.sv|
+!i113 1
+R6
+R7
+R8
+n@hex@driver
+vProcessor
+R1
+R2
+!i10b 1
+!s100 Y`R<b@NJ6o47JXJ@WP@081
+ITj5:_SOnhlz8A:IIA48^T3
+R3
+!s105 Processor_sv_unit
+S1
+R0
+w1631296961
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Processor.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Processor.sv
+L0 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Processor.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Processor.sv|
+!i113 1
+R6
+R7
+R8
+n@processor
+vreg_8
+R1
+R2
+!i10b 1
+!s100 AXDzj?_?eZ4hKcKof@=bm2
+I;R4E]NG=::aQdPNlQ<74]3
+R3
+!s105 Reg_8_sv_unit
+S1
+R0
+w1631081272
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Reg_8.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Reg_8.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Reg_8.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Reg_8.sv|
+!i113 1
+R6
+R7
+R8
+vregister_unit
+R1
+R2
+!i10b 1
+!s100 2ffML3jhY4aCKKX2f;m:<1
+IPjIT3cSFC0Zf6B<`=?l000
+R3
+!s105 Register_unit_sv_unit
+S1
+R0
+w1631083901
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Register_unit.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Register_unit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Register_unit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Register_unit.sv|
+!i113 1
+R6
+R7
+R8
+vrouter
+R1
+R2
+!i10b 1
+!s100 lIdD9@`9>^lYia[Dkg2aV0
+IR9Ma^Y?mjf_]MVRT`5]z93
+R3
+!s105 Router_sv_unit
+S1
+R0
+Z9 w1612570585
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Router.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Router.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Router.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Router.sv|
+!i113 1
+R6
+R7
+R8
+vsync
+R1
+R2
+!i10b 1
+!s100 2W5Vz0:F6ckE2`eJOTK5l1
+IH0B:]@kaBP^Ye]JYQeUJ50
+R3
+Z10 !s105 Synchronizers_sv_unit
+S1
+R0
+R9
+Z11 8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Synchronizers.sv
+Z12 FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Synchronizers.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+Z13 !s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Synchronizers.sv|
+Z14 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Synchronizers.sv|
+!i113 1
+R6
+R7
+R8
+vsync_r0
+R1
+R2
+!i10b 1
+!s100 IGd9f_F;JNjVBLQ@DAnD10
+IH^Cmb@Dl1N]>=XcZNWV]O0
+R3
+R10
+S1
+R0
+R9
+R11
+R12
+L0 18
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
+vsync_r1
+R1
+R2
+!i10b 1
+!s100 1CXiH1DYDbAUS69Ee2j060
+Ib5K[IFQVCkm^HD02f>=?50
+R3
+R10
+S1
+R0
+R9
+R11
+R12
+L0 39
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
+vtestbench_8
+R1
+!s110 1632170824
+!i10b 1
+!s100 X[88G4b[D]An>iaNUDD_Y1
+Iob6R4z?MzMk<J`?NV:_kK2
+R3
+!s105 testbench_8_sv_unit
+S1
+R0
+w1631158455
+8C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/testbench_8.sv
+FC:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/testbench_8.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/testbench_8.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit|C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/testbench_8.sv|
+!i113 1
+R6
+R7
+R8

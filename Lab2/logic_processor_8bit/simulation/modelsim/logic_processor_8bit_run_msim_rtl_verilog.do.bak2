@@ -1,0 +1,16 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/compute.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Control.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/HexDriver.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Router.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Synchronizers.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Reg_8.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Register_unit.sv}
+vlog -sv -work work +incdir+C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit {C:/Users/ENIAC/Desktop/ECE385/Lab2/logic_processor_8bit/Processor.sv}
+
